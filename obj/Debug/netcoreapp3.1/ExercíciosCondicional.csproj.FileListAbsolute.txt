@@ -1,0 +1,13 @@
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\bin\Debug\netcoreapp3.1\ExercíciosCondicional.exe
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\bin\Debug\netcoreapp3.1\ExercíciosCondicional.deps.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\bin\Debug\netcoreapp3.1\ExercíciosCondicional.runtimeconfig.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\bin\Debug\netcoreapp3.1\ExercíciosCondicional.runtimeconfig.dev.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\bin\Debug\netcoreapp3.1\ExercíciosCondicional.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\bin\Debug\netcoreapp3.1\ExercíciosCondicional.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\obj\Debug\netcoreapp3.1\ExercíciosCondicional.csprojAssemblyReference.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\obj\Debug\netcoreapp3.1\ExercíciosCondicional.AssemblyInfoInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\obj\Debug\netcoreapp3.1\ExercíciosCondicional.AssemblyInfo.cs
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\obj\Debug\netcoreapp3.1\ExercíciosCondicional.csproj.CoreCompileInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\obj\Debug\netcoreapp3.1\ExercíciosCondicional.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\obj\Debug\netcoreapp3.1\ExercíciosCondicional.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercíciosCondicional\obj\Debug\netcoreapp3.1\ExercíciosCondicional.genruntimeconfig.cache
